@@ -1,5 +1,6 @@
 # DevDataProdProj
-This repo is created to submit the Developing Data Products Course Project
+This repo is created to submit the Developing Data Products Course Project  
+The app is available in here: https://zimin.shinyapps.io/rrrpapp/
 
 ## Russian Rouble Rate Prediction Application Users Manual
 ### Introduction
