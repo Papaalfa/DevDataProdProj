@@ -1,5 +1,5 @@
 # DevDataProdProj
-This repo is created to submit the [Developing Data Products Coursera Course](https://www.coursera.org/learn/data-products/home/welcome) Project  
+This repo is created to submit the [Developing Data Products](https://www.coursera.org/learn/data-products/home/welcome) Course Project  
 The app is available in here: https://zimin.shinyapps.io/rrrpapp/
 
 ## Russian Rouble Rate Prediction Application Users Manual
